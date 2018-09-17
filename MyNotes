@@ -1,0 +1,5 @@
+Inversion of Control
+  The approach of outsourcing the construction and management of the objects.
+  
+Dependency Injection
+  Calls to another object the responsibility of providing its dependencies.
